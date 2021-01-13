@@ -9,5 +9,5 @@ Gojek. BotGojek ini bertujuan agar pengguna dapat memesan atau memakai fitur yan
 Motor, Mobil, pemesanan Makanan, ataupun yang lainnya.
 
 ### Id dan username
-Id : @ImandaAdikaBot
-Username : BotGojek
+- Id : @ImandaAdikaBot
+- Username : BotGojek
